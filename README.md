@@ -18,8 +18,8 @@ id | Nombre estudiante  | Equipo | Página personal | Repositorio de Web de equi
 12 | | | | 
 13 | | | | 
 14 | | | | 
-15 | | | | 
-16 |Alejandro |Equipo de prácticas 2 |https://arg313.github.io/ | https://github.com/arg313/hmis-repo01.git
+15 |Alejandro |Equipo de prácticas 2 |https://arg313.github.io/
+16 | | | | 
 17 | | | | 
 18 | | | | 
 
